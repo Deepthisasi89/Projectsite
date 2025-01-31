@@ -14,3 +14,4 @@ CodePipeline is configured in the following manner:
 Full details under [AWS_Projects/CodePipeline](https://github.com/Deepthisasi89/AWS_Projects/blob/main/CodePipeline/)
 ### Elastic Beanstalk
 Full details under [AWS_Projects/ElasticBeanstalk](https://github.com/Deepthisasi89/AWS_Projects/tree/main/ElasticBeanstalk)
+
