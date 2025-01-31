@@ -10,4 +10,7 @@ CodePipeline is configured in the following manner:
 * Github webhook used to notify when commits to main occur
 * A simple zip command is used to build the package required for Beanstalk, this zips the app.py file, as well as others required.
 * The artifact created by the build command is passed to AWS Elastic Beanstalk
+
+Full details under [AWS_Projects/CodePipeline](https://github.com/Deepthisasi89/AWS_Projects/blob/main/CodePipeline/)
 ### Elastic Beanstalk
+Full details under [AWS_Projects/ElasticBeanstalk](https://github.com/Deepthisasi89/AWS_Projects/tree/main/ElasticBeanstalk)
