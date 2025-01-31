@@ -1,4 +1,4 @@
-# Projet Site
+# Project Site
 Project Site is a simple Python project to demostrate the CI/CD workflow from Github Actions through to AWS CodePipeline and Elastic Beanstalk, as well as provide a basic website to highlight AWS projects I've worked on.
 
 ## Github Actions
